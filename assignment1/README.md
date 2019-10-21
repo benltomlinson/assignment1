@@ -78,3 +78,12 @@ public static void main(String[] args) {
 trying to extend an application, but also makes sure that you are able to only access methods on the interface's contract. Feel free
 to play around with different values to test your implementations, but when submitting your final assignment, make sure to leave this
 `main()` method as written here.
+
+# Final grade:
+- Part 1: 5%
+- Part 2: 5%
+- Part 3: 10%
+- Part 4: 30%
+- Part 5: 50%
+- Days late: 0
+- Total: 100%
